@@ -1,0 +1,13 @@
+
+### **Steps to Add README.md to Your Project:**
+
+1. In your GitHub project folder, create a new **README.md** file.
+   
+2. Copy the content above into the **README.md** file.
+
+3. Save the file and then push it to GitHub:
+
+   ```bash
+   git add README.md
+   git commit -m "Add README.md file"
+   git push
